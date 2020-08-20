@@ -2,7 +2,7 @@
 
 # BricManiac
 
-BricManiac is a single player online arcade game inspired from a retro video game - '[dx Ball](https://en.wikipedia.org/wiki/DX-Ball)'.
+BricManiac is a single player online arcade game inspired from a retro video game - [dx Ball](https://en.wikipedia.org/wiki/DX-Ball).
 
 The inspiration for rebuilding the game was it's simplicity, just a single paddle controlling everything.
 
