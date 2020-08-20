@@ -28,7 +28,7 @@ Hope you enjoy ;)
 ![Screenshot](https://github.com/ne3lakolkar/BricManiac/blob/master/assets/screenshot.png)
 
 ## Play for free
-[BricManiac @ne3lakolkar](https://ne3lakolkar.itch.io/)
+[BricManiac by ne3lakolkar](https://ne3lakolkar.itch.io/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
