@@ -21,7 +21,7 @@ Hope you enjoy ;)
 ## Controls
 - Hover your mouse in the horizontal axis anywhere in the game frame to move your paddle.
 
-- Try not to make the ball fall down.
+- Try not to make the ball fall out of the frame.
 
 ## How it looks
 
