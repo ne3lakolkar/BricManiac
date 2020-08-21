@@ -11,7 +11,6 @@ Happy playing !
 
 ## How to play 
 As simple as it seems, you need to break the bricks present in the frame without dropping the ball out of the paddle's reach.                
-That's it, only one chance to do it. 
 
 To keep up with your score, a scoreboard is added to the right corner of the screen.
 
